@@ -1,5 +1,4 @@
-# kjgkfd
-
+# Brain Teaser
 brain-teaser
 print(name_of_school) print('sss) key = {'name':'Fortune'}
 
